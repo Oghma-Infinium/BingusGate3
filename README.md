@@ -155,7 +155,8 @@ It is highly recommended to have a clean installation of Baldur's Gate 3 before 
 >If you have your Steam Library in Program Files, read [this article](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) by LostDragonist. Locations such as Desktop, Documents, Downloads, OneDrive, etc. *will* cause issues with installing and playing the list.
 
  1. Change Baldur's Gate 3 so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
- 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`
+ 2. Right click on Baldur's Gate 3 and click on properties, untick the `Enable Steam Overlay while in-game.`.
+ 3. While in the properties, navigate to the Language tab and set the Language to `English`.
 
 #### Additional GoG Setup
 
