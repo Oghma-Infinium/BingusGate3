@@ -281,30 +281,26 @@ TBD
 ## Before Starting a New Campaign
 
  1. Head over to your modlist installation folder (e.g. `C:\BingusGate3`), locate an executable named `ModOrganizer.exe`, and launch it.
+   >[!IMPORTANT]
+   >If you installed Bingus Gate 3 to a **different storage device** than where you installed Baldur's Gate 3 itself and the game fails to launch, follow the **Configuring Root Builder** section below.
 
-      >[!IMPORTANT]
-      >If you installed Bingus Gate 3 to a **different storage device** than where you installed Baldur's Gate 3 itself and the game fails to launch, follow the **Configuring Root Builder** section below.
+     <Details>
+     <summary>Configuring Root Builder</summary>
 
-      <Details>
-      <summary>Configuring Root Builder</summary>
+      1. Click on the puzzle piece icon at the top of Mod Organizer 2.
+      2. Root Builder -> Root Builder.
+      3. Change from `Link` to `Copy`
 
-       1. Click on the puzzle piece icon at the top of Mod Organizer 2.
-       2. Root Builder -> Root Builder.
-       3. Change from `Link` to `Copy`
-
-      </Details>  
+     </Details>  
 
  2. At the top right, you should be able to switch between the DX11 nad Vulkan version of the game. The DX11 version is suggested.
  3. Hit `Run` on the `Play Baldur's Gate 3` executable in MO2.
-
-      >[!CAUTION]
-      >**FOR THE LOVE OF AO, DO NOT CLICK THE UNLOCK BUTTON!**
- 
+   >[!CAUTION]
+   >**FOR THE LOVE OF AO, DO NOT CLICK THE UNLOCK BUTTON!**
  4. Once you have arrived to the Main Menu, verify all your mods have loaded by clicking on the `Mod Manager` button (under `Multiplayer`) and navigating to `Installed`. If you see a long list of mods (and `Memory Used` value ~20GB), then you should be good to go!
  5. Return to Main Menu and navigate to `Options` and then `Video` and ensure that your **Animation Level of Detail** is set to **High**.
-
-      >[!WARNING]
-      >You must change **Animation Level of Detail** to **High** in your `Video` settings, otherwise any heads added or changed by mods will suffer from visual bugs and animation issues. All other graphic settings can be adjusted according to your PC specs.
+   >[!WARNING]
+   >You must change **Animation Level of Detail** to **High** in your `Video` settings, otherwise any heads added or changed by mods will suffer from visual bugs and animation issues. All other graphic settings can be adjusted according to your PC specs.
 
 ## Starting a New Campaign and Difficulty Settings
 
