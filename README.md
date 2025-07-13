@@ -282,17 +282,7 @@ TBD
 
  1. Head over to your modlist installation folder (e.g. `C:\BingusGate3`), locate an executable named `ModOrganizer.exe`, and launch it.
    >[!IMPORTANT]
-   >If you installed Bingus Gate 3 to a **different storage device** than where you installed Baldur's Gate 3 itself and the game fails to launch, follow the **Configuring Root Builder** section below.
-
-    <Details>
-    <summary>Configuring Root Builder</summary>
-
-    1. Click on the puzzle piece icon at the top of Mod Organizer 2.
-    2. Root Builder -> Root Builder.
-    3. Change from `Link` to `Copy`
-
-    </Details>  
-
+   >If you installed Bingus Gate 3 to a **different storage device** than where you installed Baldur's Gate 3 itself and the game fails to launch, ensure that Root Builder is set to `Copy` and not `Link` (MO2 Puzzle Piece Icon > Root Builder > Root Builder).
  2. At the top right, you should be able to switch between the DX11 nad Vulkan version of the game. The DX11 version is suggested.
  3. Hit `Run` on the `Play Baldur's Gate 3` executable in MO2.
    >[!CAUTION]
