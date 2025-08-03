@@ -15,40 +15,19 @@
 
 # Table of Contents
 
-- Version
+- [2.3.0](#230) Released: August 3, 2025
 
-## Version
+## 2.3.0
 
 Key Info
 
- - Text
-
-<Details>
-<summary>Changes</summary>
-
-### Updated
-
- - Text
-
-### Added
-
- - Text
-
-### Removed
-
- - Text
-
-</Details>
+ - Fixed bug with GraphicFade's gear. 
 
 <Details>
 <summary>Patch Notes</summary>
 
 ### Bug Fixes  
 
-- Text
-
-### Tweaks and Balance  
-
-- Text
+- Fixed bug with duplicate gear drops.
 
 </Details>
