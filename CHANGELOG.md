@@ -1,5 +1,5 @@
 
-<-- Banner goes here -->
+![](https://raw.githubusercontent.com/Oghma-Infinium/BingusGate3/refs/heads/main/images/Banner.png)
 
 <p align="center">
   [ <a href="https://github.com/Oghma-Infinium/BingusGate3/blob/main/README.md">Installation</a> |
