@@ -40,6 +40,7 @@
 - [Playing the List](#playing-the-list)
   - [Before Starting a New Campaign](#before-starting-a-new-campaign)
   - [Starting a New Campaign and Difficulty Settings](#starting-a-new-campaign-and-difficulty-settings)
+  - [Starting a Multiplayer Campaign](#starting-a-multiplayer-campaign)
 - [Updating the modlist](#updating-the-modlist)
 - [Removing the Modlist](#removing-the-modlist)
 - [Issues](#issues)
@@ -320,6 +321,25 @@ The settings:
  - **Trade Price Modifier**: 3 (Recommended 3.0 - 4.0)
 
 The remaining settings (such as Multiclassing, etc.) can be set according to personal preference.
+
+## Starting a Multiplayer Campaign
+
+This section of the guide is ripped 1:1 from [Listonomicon's](https://www.nexusmods.com/baldursgate3/mods/15237) [install instructions](https://ajaxxxxxxxx.github.io/docs/1listo/Install/#13-multiplayer). This section of Listonomicon's install guide was originally written by Kmnder and edited by Ajax, I have tweaked it slightly for Bingus Gate 3.
+
+>[!CAUTION]
+>Failing to follow these instructions will lead to problems (e.g., Honor Mode ruleset not being applied, mod version mismatches, etc.) and you will not receive the intended experience.
+
+ 1. After installing Bingus Gate 3, if enabling custom or optional mods, the host should generate a fresh `ModsCache.json` and `ModSettings.lsx` and share it with all other players to guarantee BG3 loads the same mods, in the same order.  
+     i. To generate a new `ModsCache.json` and `ModSettings.lsx`, navigate to the **Profiles** folder in your MO2 directory (e.g., `C:\BingusGate3\profiles`).  
+     ii. Select the Mod Organizer 2 profile you intend to play multiplayer with (e.g., `Bingus Gate 3`).  
+     iii. Delete the `ModsCache.json` and `ModSettings.lsx` files.  
+     iv. After deleting these files, launch the game in order for a new set of files to be generated.  
+ 2. All players should start a new game with the same Custom Game rules as listed [above](#starting-a-new-campaign-and-difficulty-settings).
+ 3. The host should then create the real character that they intend to play while all other players should create a dummy character.  
+     - For dummy characters, do not bother making any real choices as you will not be playing these characters. Simply click through character customization so that you can start on the Nautiloid.
+ 4. Once everyone has loaded into their game, the host should invite all other players. At this point, everyone (besides the host) should be prompted to make their real characters for the campaign.
+ 5. **When continuing a Multiplayer Campaign**, ensure that everyone (besides the host) loads into their dummy save. Once everyone has loaded in, the Host can then invite everyone to the same game.
+     > Kmnder: "I've invited through clicking Multiplayer+ and then Steam inviting. But it has worked 100% of the time so far."
 
 # Updating the modlist
 
